@@ -10,7 +10,7 @@ import UIKit
 
 class FirstViewController: UIViewController,UITableViewDelegate,UITableViewDataSource {
     @IBOutlet weak var label: UILabel!
-    var data = ["Hello","Come to me","Cold water","Where Them Girls At","Blow Your Mind","Love on Me","Thinking About You","Keep it Mello","One Night Only","The Heart Wants What It Wants"]
+    var data = ["Hello","Come to Me","Cold water","Where Them Girls At","Blow Your Mind","Love on Me","Thinking About You","Keep it Mello","One Night Only","The Heart Wants What It Wants"]
     @IBOutlet weak var table: UITableView!
     override func viewDidLoad() {
         super.viewDidLoad()

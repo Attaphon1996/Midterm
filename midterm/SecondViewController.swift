@@ -9,14 +9,17 @@
 import UIKit
 
 class SecondViewController: UIViewController {
-
+    
+    @IBOutlet weak var label: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
+        label.text = UserDefaults.standard.object(forKey: "Login") as! String?
         // Do any additional setup after loading the view, typically from a nib.
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
+        
         // Dispose of any resources that can be recreated.
     }
 

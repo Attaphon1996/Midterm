@@ -30,6 +30,7 @@ class ViewController: UIViewController {
         if pas.text == ranpas.text 	{
             con.isHidden = false
             log.isHidden = true
+            UserDefaults.standard.set(ranpas, forKey: "Login")
         }
         else {
             ranpas.text = 	String(Int(arc4random_uniform(10000)))
