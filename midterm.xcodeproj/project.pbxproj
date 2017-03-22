@@ -13,6 +13,28 @@
 		786FB1A21E82654B008DBF96 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1A01E82654B008DBF96 /* Main.storyboard */; };
 		786FB1A41E82654C008DBF96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1A31E82654C008DBF96 /* Assets.xcassets */; };
 		786FB1A71E82654C008DBF96 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1A51E82654C008DBF96 /* LaunchScreen.storyboard */; };
+		786FB1AF1E826656008DBF96 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 786FB1AE1E826656008DBF96 /* ViewController.swift */; };
+		786FB1B11E827579008DBF96 /* musicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 786FB1B01E827579008DBF96 /* musicViewController.swift */; };
+		786FB1D01E828381008DBF96 /* Blow Your Mind.png in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1C61E828381008DBF96 /* Blow Your Mind.png */; };
+		786FB1D11E828381008DBF96 /* Cold Water.png in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1C71E828381008DBF96 /* Cold Water.png */; };
+		786FB1D21E828381008DBF96 /* Come To Me.png in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1C81E828381008DBF96 /* Come To Me.png */; };
+		786FB1D31E828381008DBF96 /* Hello.png in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1C91E828381008DBF96 /* Hello.png */; };
+		786FB1D41E828381008DBF96 /* Keep it Mello.png in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1CA1E828381008DBF96 /* Keep it Mello.png */; };
+		786FB1D51E828381008DBF96 /* Love on Me.png in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1CB1E828381008DBF96 /* Love on Me.png */; };
+		786FB1D61E828381008DBF96 /* One Night Only.png in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1CC1E828381008DBF96 /* One Night Only.png */; };
+		786FB1D71E828381008DBF96 /* The Heart Wants What It Wants.png in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1CD1E828381008DBF96 /* The Heart Wants What It Wants.png */; };
+		786FB1D81E828381008DBF96 /* Thinking About You.png in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1CE1E828381008DBF96 /* Thinking About You.png */; };
+		786FB1D91E828381008DBF96 /* Where Them Girls At.png in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1CF1E828381008DBF96 /* Where Them Girls At.png */; };
+		786FB1E31E828B2C008DBF96 /* Blow Your Mind.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1DA1E828B2C008DBF96 /* Blow Your Mind.mp3 */; };
+		786FB1E41E828B2C008DBF96 /* Cold Water.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1DB1E828B2C008DBF96 /* Cold Water.mp3 */; };
+		786FB1E51E828B2C008DBF96 /* Come To Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1DC1E828B2C008DBF96 /* Come To Me.mp3 */; };
+		786FB1E61E828B2C008DBF96 /* Hello.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1DD1E828B2C008DBF96 /* Hello.mp3 */; };
+		786FB1E71E828B2C008DBF96 /* Keep it Mello.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1DE1E828B2C008DBF96 /* Keep it Mello.mp3 */; };
+		786FB1E81E828B2C008DBF96 /* Love on Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1DF1E828B2C008DBF96 /* Love on Me.mp3 */; };
+		786FB1E91E828B2C008DBF96 /* The Heart Wants What It Wants.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1E01E828B2C008DBF96 /* The Heart Wants What It Wants.mp3 */; };
+		786FB1EA1E828B2C008DBF96 /* Thinking About You.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1E11E828B2C008DBF96 /* Thinking About You.mp3 */; };
+		786FB1EB1E828B2C008DBF96 /* Where Them Girls At.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1E21E828B2C008DBF96 /* Where Them Girls At.mp3 */; };
+		786FB1ED1E828B36008DBF96 /* One Night Only.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 786FB1EC1E828B36008DBF96 /* One Night Only.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +46,28 @@
 		786FB1A31E82654C008DBF96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		786FB1A61E82654C008DBF96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		786FB1A81E82654C008DBF96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		786FB1AE1E826656008DBF96 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		786FB1B01E827579008DBF96 /* musicViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = musicViewController.swift; sourceTree = "<group>"; };
+		786FB1C61E828381008DBF96 /* Blow Your Mind.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Blow Your Mind.png"; path = "../../../../iOS-Midterm/EngSong/CoverPhoto/Blow Your Mind.png"; sourceTree = "<group>"; };
+		786FB1C71E828381008DBF96 /* Cold Water.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Cold Water.png"; path = "../../../../iOS-Midterm/EngSong/CoverPhoto/Cold Water.png"; sourceTree = "<group>"; };
+		786FB1C81E828381008DBF96 /* Come To Me.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Come To Me.png"; path = "../../../../iOS-Midterm/EngSong/CoverPhoto/Come To Me.png"; sourceTree = "<group>"; };
+		786FB1C91E828381008DBF96 /* Hello.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Hello.png; path = "../../../../iOS-Midterm/EngSong/CoverPhoto/Hello.png"; sourceTree = "<group>"; };
+		786FB1CA1E828381008DBF96 /* Keep it Mello.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Keep it Mello.png"; path = "../../../../iOS-Midterm/EngSong/CoverPhoto/Keep it Mello.png"; sourceTree = "<group>"; };
+		786FB1CB1E828381008DBF96 /* Love on Me.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Love on Me.png"; path = "../../../../iOS-Midterm/EngSong/CoverPhoto/Love on Me.png"; sourceTree = "<group>"; };
+		786FB1CC1E828381008DBF96 /* One Night Only.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "One Night Only.png"; path = "../../../../iOS-Midterm/EngSong/CoverPhoto/One Night Only.png"; sourceTree = "<group>"; };
+		786FB1CD1E828381008DBF96 /* The Heart Wants What It Wants.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "The Heart Wants What It Wants.png"; path = "../../../../iOS-Midterm/EngSong/CoverPhoto/The Heart Wants What It Wants.png"; sourceTree = "<group>"; };
+		786FB1CE1E828381008DBF96 /* Thinking About You.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Thinking About You.png"; path = "../../../../iOS-Midterm/EngSong/CoverPhoto/Thinking About You.png"; sourceTree = "<group>"; };
+		786FB1CF1E828381008DBF96 /* Where Them Girls At.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Where Them Girls At.png"; path = "../../../../iOS-Midterm/EngSong/CoverPhoto/Where Them Girls At.png"; sourceTree = "<group>"; };
+		786FB1DA1E828B2C008DBF96 /* Blow Your Mind.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Blow Your Mind.mp3"; path = "../../../../iOS-Midterm/EngSong/Blow Your Mind.mp3"; sourceTree = "<group>"; };
+		786FB1DB1E828B2C008DBF96 /* Cold Water.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Cold Water.mp3"; path = "../../../../iOS-Midterm/EngSong/Cold Water.mp3"; sourceTree = "<group>"; };
+		786FB1DC1E828B2C008DBF96 /* Come To Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Come To Me.mp3"; path = "../../../../iOS-Midterm/EngSong/Come To Me.mp3"; sourceTree = "<group>"; };
+		786FB1DD1E828B2C008DBF96 /* Hello.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Hello.mp3; path = "../../../../iOS-Midterm/EngSong/Hello.mp3"; sourceTree = "<group>"; };
+		786FB1DE1E828B2C008DBF96 /* Keep it Mello.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Keep it Mello.mp3"; path = "../../../../iOS-Midterm/EngSong/Keep it Mello.mp3"; sourceTree = "<group>"; };
+		786FB1DF1E828B2C008DBF96 /* Love on Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Love on Me.mp3"; path = "../../../../iOS-Midterm/EngSong/Love on Me.mp3"; sourceTree = "<group>"; };
+		786FB1E01E828B2C008DBF96 /* The Heart Wants What It Wants.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "The Heart Wants What It Wants.mp3"; path = "../../../../iOS-Midterm/EngSong/The Heart Wants What It Wants.mp3"; sourceTree = "<group>"; };
+		786FB1E11E828B2C008DBF96 /* Thinking About You.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Thinking About You.mp3"; path = "../../../../iOS-Midterm/EngSong/Thinking About You.mp3"; sourceTree = "<group>"; };
+		786FB1E21E828B2C008DBF96 /* Where Them Girls At.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Where Them Girls At.mp3"; path = "../../../../iOS-Midterm/EngSong/Where Them Girls At.mp3"; sourceTree = "<group>"; };
+		786FB1EC1E828B36008DBF96 /* One Night Only.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "One Night Only.mp3"; path = "../../../../iOS-Midterm/EngSong/One Night Only.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +100,26 @@
 		786FB1991E82654B008DBF96 /* midterm */ = {
 			isa = PBXGroup;
 			children = (
+				786FB1C61E828381008DBF96 /* Blow Your Mind.png */,
+				786FB1C71E828381008DBF96 /* Cold Water.png */,
+				786FB1C81E828381008DBF96 /* Come To Me.png */,
+				786FB1C91E828381008DBF96 /* Hello.png */,
+				786FB1CA1E828381008DBF96 /* Keep it Mello.png */,
+				786FB1CB1E828381008DBF96 /* Love on Me.png */,
+				786FB1CC1E828381008DBF96 /* One Night Only.png */,
+				786FB1CD1E828381008DBF96 /* The Heart Wants What It Wants.png */,
+				786FB1CE1E828381008DBF96 /* Thinking About You.png */,
+				786FB1CF1E828381008DBF96 /* Where Them Girls At.png */,
+				786FB1DA1E828B2C008DBF96 /* Blow Your Mind.mp3 */,
+				786FB1DB1E828B2C008DBF96 /* Cold Water.mp3 */,
+				786FB1DC1E828B2C008DBF96 /* Come To Me.mp3 */,
+				786FB1DD1E828B2C008DBF96 /* Hello.mp3 */,
+				786FB1DE1E828B2C008DBF96 /* Keep it Mello.mp3 */,
+				786FB1DF1E828B2C008DBF96 /* Love on Me.mp3 */,
+				786FB1E01E828B2C008DBF96 /* The Heart Wants What It Wants.mp3 */,
+				786FB1E11E828B2C008DBF96 /* Thinking About You.mp3 */,
+				786FB1E21E828B2C008DBF96 /* Where Them Girls At.mp3 */,
+				786FB1EC1E828B36008DBF96 /* One Night Only.mp3 */,
 				786FB19A1E82654B008DBF96 /* AppDelegate.swift */,
 				786FB19C1E82654B008DBF96 /* FirstViewController.swift */,
 				786FB19E1E82654B008DBF96 /* SecondViewController.swift */,
@@ -63,6 +127,8 @@
 				786FB1A31E82654C008DBF96 /* Assets.xcassets */,
 				786FB1A51E82654C008DBF96 /* LaunchScreen.storyboard */,
 				786FB1A81E82654C008DBF96 /* Info.plist */,
+				786FB1AE1E826656008DBF96 /* ViewController.swift */,
+				786FB1B01E827579008DBF96 /* musicViewController.swift */,
 			);
 			path = midterm;
 			sourceTree = "<group>";
@@ -127,9 +193,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				786FB1E61E828B2C008DBF96 /* Hello.mp3 in Resources */,
+				786FB1E91E828B2C008DBF96 /* The Heart Wants What It Wants.mp3 in Resources */,
+				786FB1D01E828381008DBF96 /* Blow Your Mind.png in Resources */,
+				786FB1D61E828381008DBF96 /* One Night Only.png in Resources */,
+				786FB1D11E828381008DBF96 /* Cold Water.png in Resources */,
+				786FB1ED1E828B36008DBF96 /* One Night Only.mp3 in Resources */,
 				786FB1A71E82654C008DBF96 /* LaunchScreen.storyboard in Resources */,
+				786FB1D31E828381008DBF96 /* Hello.png in Resources */,
+				786FB1E51E828B2C008DBF96 /* Come To Me.mp3 in Resources */,
+				786FB1EA1E828B2C008DBF96 /* Thinking About You.mp3 in Resources */,
+				786FB1E81E828B2C008DBF96 /* Love on Me.mp3 in Resources */,
+				786FB1EB1E828B2C008DBF96 /* Where Them Girls At.mp3 in Resources */,
+				786FB1D81E828381008DBF96 /* Thinking About You.png in Resources */,
+				786FB1D91E828381008DBF96 /* Where Them Girls At.png in Resources */,
+				786FB1E31E828B2C008DBF96 /* Blow Your Mind.mp3 in Resources */,
 				786FB1A41E82654C008DBF96 /* Assets.xcassets in Resources */,
+				786FB1D21E828381008DBF96 /* Come To Me.png in Resources */,
+				786FB1E71E828B2C008DBF96 /* Keep it Mello.mp3 in Resources */,
 				786FB1A21E82654B008DBF96 /* Main.storyboard in Resources */,
+				786FB1E41E828B2C008DBF96 /* Cold Water.mp3 in Resources */,
+				786FB1D51E828381008DBF96 /* Love on Me.png in Resources */,
+				786FB1D41E828381008DBF96 /* Keep it Mello.png in Resources */,
+				786FB1D71E828381008DBF96 /* The Heart Wants What It Wants.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,6 +228,8 @@
 			files = (
 				786FB19F1E82654B008DBF96 /* SecondViewController.swift in Sources */,
 				786FB19B1E82654B008DBF96 /* AppDelegate.swift in Sources */,
+				786FB1B11E827579008DBF96 /* musicViewController.swift in Sources */,
+				786FB1AF1E826656008DBF96 /* ViewController.swift in Sources */,
 				786FB19D1E82654B008DBF96 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
